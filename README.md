@@ -1,30 +1,43 @@
-### Hi, I'm VG <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+# Hi there 👋, I am [VG-1](https://github.com/VG-1)
 
-## Your short description
-- 🔭 I’m currently working on - A playlist sharing website
-- 🌱 I’m currently learning - C++, DSA , Front-end development
-- 👯 I’m looking to collaborate with - Any project that contains front-end development
-- 💬 Ask me about - Front-end Web development
-- 🥅 2020 Goal - To make my own website and work on it as a startup
-- ⚡ Fun fact - I am also looking for oppurtunities in research
+Front-end developer, AI and data science scholar
 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=VG-1&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+## Skills/Learning
+<!--* <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />  React-->
+* **📱**C++, JavaScrpit
+* HTML
+* **💻** <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML, <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS & <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />Javascript
+* **🐍**Python
+* <img src="https://blr1.blynk.cloud/favicon.ico" style="position:relative;top: 10px;"> 
 
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+## Curently learning
 
-<!-- Optional if you have blogs -->
-## Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+* ![C++](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white "Python")
+* ![Bootstrap](https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white "Arduino")
+* ![React](https://img.shields.io/badge/react%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white "React")
 
-<!-- This section you create this variables that are used above -->
-[website]: https://google.com
-[twitter]: https://twitter.com/indrajeet_nikam
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
+## Trying to learn
+<!--* <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte-->
+* ![Python](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
+* ![DSA](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white "Unity")
+
+## Socials
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/VG-1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/yogpanjarale) icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@VG-1)  
+
+<!-- ![dev ](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif | width=48) -->
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
+## Fun Facts
+
+* I started my coding journey in the summer of 2020 due to Covid
+
+## Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VG-1&show_icons=true&theme=ayu-mirage&hide_border=true)](https://github.com/VG-1)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VG-1&theme=ayu-mirage&hide_border=true&)](https://github.com/VG-1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogPanjarale&langs_count=10&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Profile views](https://gpvc.arturio.dev/VG-1)  
