@@ -16,17 +16,17 @@ Front-end developer, AI and data science scholar
 * ![Bootstrap](https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white "Arduino")
 * ![React](https://img.shields.io/badge/react%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white "React")
 
-## Trying to learn
+<!-- ## Trying to learn
 <!--* <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte-->
 * ![Google Cloud and Microsoft Azure](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Google Cloud and Microsoft Azure")
 * ![DSA](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white "DSA")
-
-## Socials
+ -->
+<!-- ## Socials
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/VG-1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/VG-1) icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@VG-1)  
 
 <!-- ![dev ](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif | width=48) -->
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> -->
 
 ## Fun Facts
 
