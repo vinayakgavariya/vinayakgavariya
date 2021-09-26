@@ -1,13 +1,13 @@
-### Hi, I'm Anonymous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm VG <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 ## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
-- 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
-- ⚡ Fun fact - ❔❔❔❔
+- 🔭 I’m currently working on - A playlist sharing website
+- 🌱 I’m currently learning - C++, DSA , Front-end development
+- 👯 I’m looking to collaborate with - Any project that contains front-end development
+- 💬 Ask me about - Front-end Web development
+- 🥅 2020 Goal - To make my own website and work on it as a startup
+- ⚡ Fun fact - I am also looking for oppurtunities in research
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
