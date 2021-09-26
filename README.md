@@ -18,8 +18,8 @@ Front-end developer, AI and data science scholar
 
 ## Trying to learn
 <!--* <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte-->
-* ![Python](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
-* ![DSA](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white "Unity")
+* ![Google Cloud and Microsoft Azure](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Google Cloud and Microsoft Azure")
+* ![DSA](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white "DSA")
 
 ## Socials
 
