@@ -8,7 +8,7 @@ Front-end developer, AI and data science scholar
 
 
 
-* **💻** <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML<br>, <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS <br>& <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />Javascript<br>
+* **💻** <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />* HTML<br> <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />* CSS <br> <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />Javascript<br>
 
 <!-- ## Curently learning
 
@@ -18,8 +18,8 @@ Front-end developer, AI and data science scholar
 
 <!-- ## Trying to learn
 <!--* <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte-->
-* ![Google Cloud and Microsoft Azure](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Google Cloud and Microsoft Azure")
-* ![DSA](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white "DSA")
+<!-- * ![Google Cloud and Microsoft Azure](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Google Cloud and Microsoft Azure")
+* ![DSA](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white "DSA") -->
  --> 
 <!-- ## Socials
 
