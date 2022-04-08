@@ -1,8 +1,8 @@
 <!--[![MasterHead](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)](https://rishavchanda.io)-->
 <h1 align="center">Hi 👋, I'm Vinayak Gavariya</h1>
-<h3 align="center">A passionate frontend developer and AI and Data Science enthusiast.</h3>
+<h3 align="right">A passionate frontend developer and AI and Data Science enthusiast.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vg-1&label=Profile%20views&color=0e75b6&style=flat" alt="vg-1" /> </p>
 
