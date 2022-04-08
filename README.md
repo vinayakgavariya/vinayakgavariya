@@ -1,41 +1,41 @@
-# Hi there 👋, I am [VG-1](https://github.com/VG-1)
+<!--[![MasterHead](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)](https://rishavchanda.io)-->
+<h1 align="center">Hi 👋, I'm Vinayak Gavariya</h1>
+<h3 align="center">A passionate frontend developer and AI and Data Science enthusiast.</h3>
 
-Front-end developer, AI and data science scholar
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
-## Skills/Learning
-* <img height="18" width="18" style="fill:'#00ff00;" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />  React
-* **📱**C++,
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vg-1&label=Profile%20views&color=0e75b6&style=flat" alt="vg-1" /> </p>
 
- <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />* **HTML**<br> <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />**CSS**<br> <img height="18" width="18" style="fill:'#00ff00;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />Javascript<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vg-1" alt="vg-1" /></a> </p>
 
-<!-- ## Curently learning
+<p align="left"> <a href="https://twitter.com/gavariyavinayak" target="blank"><img src="https://img.shields.io/twitter/follow/gavariyavinayak?logo=twitter&style=for-the-badge" alt="gavariyavinayak" /></a> </p>
 
-* ![C++](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white "Python")
-* ![Bootstrap](https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white "Arduino")
-* ![React](https://img.shields.io/badge/react%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white "React") -->
+- 🔭 I’m currently working on [Hostoura](https://github.com/VG-1/Hostoura)
 
-<!-- ## Trying to learn
-<!--* <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/svelte.svg" /> Svelte-->
-<!-- * ![Google Cloud and Microsoft Azure](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=white "Google Cloud and Microsoft Azure")
-* ![DSA](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white "DSA") -->
- --> 
-<!-- ## Socials
+- 🌱 I’m currently learning **ReactJS,Data Structures, Basics of ML,**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/VG-1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/VG-1) icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@VG-1)  
+- 👨‍💻 All of my projects are available at [https://github.com/VG-1](https://github.com/VG-1)
 
-<!-- ![dev ](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif | width=48) -->
-<!-- <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> --> 
+- 💬 Ask me about **C++,PYTHON,HTML,CSS,JS**
 
-## Fun Facts
+- 📫 How to reach me **vinayakgavariya123@gmail.com**
 
-* I started my coding journey in the summer of 2020 due to Covid
+- ⚡ Fun fact **I love to listen to music and creating spotify playlist. If you want one you can ping me xD**
 
-## Stats
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gavariyavinayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gavariyavinayak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinayakgavariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayakgavariya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/vinayak_gavariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vinayak_gavariya" height="30" width="40" /></a>
+<a href="https://instagram.com/vinayakgavariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayakgavariya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/vinayak gavariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinayak gavariya" height="30" width="40" /></a>
+</p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VG-1&show_icons=true&theme=ayu-mirage&hide_border=true)](https://github.com/VG-1)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VG-1&theme=ayu-mirage&hide_border=true&)](https://github.com/VG-1)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-1&langs_count=10&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vg-1&show_icons=true&locale=en&layout=compact" alt="vg-1" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vg-1&show_icons=true&locale=en" alt="vg-1" /></p>
 
-![Profile views](https://gpvc.arturio.dev/VG-1)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vg-1&" alt="vg-1" /></p>
