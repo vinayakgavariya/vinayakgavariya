@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vg-1" alt="vg-1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gavariyavinayak" target="blank"><img src="https://img.shields.io/twitter/follow/gavariyavinayak?logo=twitter&style=for-the-badge" alt="gavariyavinayak" /></a> </p>
+<!--p align="left"> <a href="https://twitter.com/gavariyavinayak" target="blank"><img src="https://img.shields.io/twitter/follow/gavariyavinayak?logo=twitter&style=for-the-badge" alt="gavariyavinayak" /></a> </p-->
 
 - 🔭 I’m currently working on [Hostoura](https://github.com/VG-1/Hostoura)
 
