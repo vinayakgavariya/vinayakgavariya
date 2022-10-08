@@ -1,22 +1,22 @@
 <!--[![MasterHead](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)](https://rishavchanda.io)-->
 <h1 align="center">Hi 👋, I'm Vinayak Gavariya</h1>
-<h3 align="right">A passionate frontend developer and AI and Data Science enthusiast.</h3>
+<h3 align="right">A open-source community enthusiast who is exploring data science and web 3.</h3>
   
 <img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vg-1&label=Profile%20views&color=0e75b6&style=flat" alt="vg-1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vg-1" alt="vg-1" /></a> </p>
+<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vg-1" alt="vg-1" /></a> </p-->
 
 <!--p align="left"> <a href="https://twitter.com/gavariyavinayak" target="blank"><img src="https://img.shields.io/twitter/follow/gavariyavinayak?logo=twitter&style=for-the-badge" alt="gavariyavinayak" /></a> </p-->
 
-- 🔭 I’m currently working on [Hostoura](https://github.com/VG-1/Hostoura)
+- 🔭 I’m currently working on [PlayListAdda](https://github.com/VG-1/PlayListAdda)
 
-- 🌱 I’m currently learning **ReactJS,Data Structures, Basics of ML,**
+- 🌱 I’m currently learning **ReactJS,Data Structures, Basics of Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VG-1](https://github.com/VG-1)
 
-- 💬 Ask me about **C++,PYTHON,HTML,CSS,JS**
+- 💬 Ask me about **C++,PYTHON,HTML,CSS,JS,React JS**
 
 - 📫 How to reach me **vinayakgavariya123@gmail.com**
 
