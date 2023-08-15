@@ -1,31 +1,27 @@
 <!--[![MasterHead](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)](https://rishavchanda.io)-->
-<h1 align="center">Hi 👋, I'm Vinayak Gavariya</h1>
-<h3 align="right">A open-source community enthusiast who is exploring data science and web 3.</h3>
+<h1 align="center">hi 👋, i'm vinayak gavariya</h1>
+<h3 align="right">a community builder who loves to advocate technology.</h3>
   
-<!-- <img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vg-1&label=Profile%20views&color=0e75b6&style=flat" alt="vg-1" /> </p>
 
-<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vg-1" alt="vg-1" /></a> </p-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vg-1&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakgavariya" /> </p>
 
-<!--p align="left"> <a href="https://twitter.com/gavariyavinayak" target="blank"><img src="https://img.shields.io/twitter/follow/gavariyavinayak?logo=twitter&style=for-the-badge" alt="gavariyavinayak" /></a> </p-->
+- 🔭 i’m currently working on [PlayListAdda](https://github.com/vinayakgavariya/PlayListAdda)
 
-- 🔭 I’m currently working on [PlayListAdda](https://github.com/VG-1/PlayListAdda)
+- 🌱 i’m currently exploring **Data Science, ML, Blockchain**
 
-- 🌱 I’m currently learning **ReactJS,Data Structures, Basics of Data Science**
+- 👨‍💻 all of my projects are available at [https://github.com/vinayakgavariya](https://github.com/vinayakgavariya)
 
-- 👨‍💻 All of my projects are available at [https://github.com/VG-1](https://github.com/VG-1)
+- 💬 ask me about **front-end development, tech communities, data science**
 
-- 💬 Ask me about **C++,PYTHON,HTML,CSS,JS,React JS**
+- 📫 how to reach me **vinayakgavariya123@gmail.com**
 
-- 📫 How to reach me **vinayakgavariya123@gmail.com**
+- ⚡ fun fact **i love to listen to music and create spotify playlists. if you want one, feel free to ping me :)**
 
-- ⚡ Fun fact **I love to listen to music and creating spotify playlist. If you want one you can ping me xD**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">connect with me:</h3>
 <p align="left">
-<!--a href="https://twitter.com/gavariyavinayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gavariyavinayak" height="30" width="40" /></a-->
-<a href="https://linkedin.com/in/vinayakgavariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayakgavariya" height="30" width="40" /></a>
+<a href="https://twitter.com/vinayakgavariya" target="blank"> twitter</a>
+<a href="https://linkedin.com/in/vinayakgavariya" target="blank">linkedin</a>
 <a href="https://stackoverflow.com/users/vinayak_gavariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vinayak_gavariya" height="30" width="40" /></a>
 <a href="https://instagram.com/vinayakgavariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayakgavariya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vinayakgavariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinayak gavariya" height="30" width="40" /></a>
