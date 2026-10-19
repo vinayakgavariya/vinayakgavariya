@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Hi, I’m Vinayak — Lead Developer Relations Engineer @ Sarvam AI  
-A community builder who loves to advocate for technology, build open-source projects, and explore the latest in AI, Data, and Blockchain.
+A community builder who loves to advocate for technology, build open-source projects, and explore the latest in AI and Data.
 
 ---
 - 💬 Ask me about: Machine Learning, Generative AI, Developer Experience, Tech Community, Developer Tools
