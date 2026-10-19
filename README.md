@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=vinayakgavariya&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakgavariya" />
 </div>
 
-### 👋 Hi, I’m Vinayak — AI DevOps and Developer Relations @ Sarvam AI  
+### 👋 Hi, I’m Vinayak — Lead Developer Relations Engineer @ Sarvam AI  
 A community builder who loves to advocate for technology, build open-source projects, and explore the latest in AI, Data, and Blockchain.
 
 ---
