@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vg-1&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakgavariya" />
+  <img src="https://komarev.com/ghpvc/?username=vinayakgavariya&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakgavariya" />
 </div>
 
-### 👋 Hi, I’m Vinayak — AI Engineer @ Sarvam AI  
+### 👋 Hi, I’m Vinayak — AI DevOps and Developer Relations @ Sarvam AI  
 A community builder who loves to advocate for technology, build open-source projects, and explore the latest in AI, Data, and Blockchain.
 
 ---
@@ -10,7 +10,10 @@ A community builder who loves to advocate for technology, build open-source proj
 ---
 
 ### 🌐 Connect with Me
-[Twitter](https://twitter.com/vinayakgavariya) · [LinkedIn](https://linkedin.com/in/vinayakgavariya) · [Instagram](https://instagram.com/vinayakgavariya) · [YouTube](https://youtube.com/@vinayakgavariya)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vinayakgavariya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayakgavariya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vinayakgavariya)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@vinayakgavariya)
 
 📫 Reach me: **vinayakgavariya123@gmail.com**  
 📁 All my work: [github.com/vinayakgavariya](https://github.com/vinayakgavariya)
@@ -20,7 +23,7 @@ A community builder who loves to advocate for technology, build open-source proj
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakgavariya&theme=default" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=vinayakgavariya&theme=default" alt="GitHub streak" />
 </p>
 
 ---
